@@ -8,7 +8,7 @@ history.
 
 ````
 .
-├── notebook                            # jupyter notebook containing the project's code                     
+├── notebook.ipynb                      # jupyter notebook containing the project's code                     
 ├── README.md
 ├── requirements.txt                    # necessary installations
 ├── report.pdf                          # Report of the project
