@@ -1,0 +1,10 @@
+allennlp_models==2.10.1
+datasets==3.0.0
+matplotlib==3.5.0
+numpy==1.21.4
+pandas==1.1.5
+scikit_learn==1.5.2
+torch==2.4.1
+tqdm==4.66.5
+transformers==4.44.2
+jedi==0.19.1
